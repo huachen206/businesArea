@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>718BB8A9-1F63-4F51-975E-2B3F4E0EE90D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BusinessArea</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF807415-C2FA-487D-9593-4B46A89E1D00</key>
+		<string>https://git.oschina.net/assyh/BusinessArea.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BusinessArea.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF807415-C2FA-487D-9593-4B46A89E1D00</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/assyh/BusinessArea.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF807415-C2FA-487D-9593-4B46A89E1D00</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF807415-C2FA-487D-9593-4B46A89E1D00</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BA</string>
+		</dict>
+	</array>
+</dict>
+</plist>
